@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Betriebsstellenfahrwege>
+  <Betriebsstellenfahrweg>
+    <Name>ZDSH_Pz_rg.Gls4.ZDF_rg</Name>
+    <Anfang Typ="Gleisende" ID="198">A</Anfang>
+    <Ende Typ="Betriebsstellengrenze" ID="244">1987-0</Ende>
+    <Reisezughalt Typ="HalteplatzRzRechtsS" ID="429">Bst2K4s</Reisezughalt>
+    <Attribute>
+      <DurchfahrtOhneHaltMoeglich/>
+      <Elektrifiziert/>
+    </Attribute>
+    <Verlauf>
+      <Abzweig/>
+      <Abzweig/>
+      <Stamm/>
+      <Abzweig/>
+      <Stamm/>
+      <Abzweig/>
+      <Abzweig/>
+      <Abzweig/>
+      <Abzweig/>
+    </Verlauf>
+    <Prioritaeten>
+      <Prioritaet Typ="FRz">50</Prioritaet>
+      <Prioritaet Typ="NRz">50</Prioritaet>
+      <Prioritaet Typ="Rz">50</Prioritaet>
+      <Prioritaet Typ="FGz">50</Prioritaet>
+      <Prioritaet Typ="NGz">50</Prioritaet>
+      <Prioritaet Typ="Gz">50</Prioritaet>
+      <Prioritaet Typ="S">50</Prioritaet>
+      <Prioritaet Typ="Lz">50</Prioritaet>
+      <Prioritaet Typ="GzG">50</Prioritaet>
+    </Prioritaeten>
+    <LetzteAenderung>25.06.2021 16:43:39</LetzteAenderung>
+  </Betriebsstellenfahrweg>
+</Betriebsstellenfahrwege>

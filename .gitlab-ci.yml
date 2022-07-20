@@ -1,0 +1,53 @@
+image: python:3.9.9
+
+before_script:
+  - echo "Running Pipeline"  # For debugging
+  - python --version
+  # - echo "Hello, $GITLAB_USER_LOGIN!"
+
+stages:
+  - Build_Stage_01
+  - Build_Stage_02
+  - Build_Stage_03
+  - Tests
+
+isort:
+  stage: Build_Stage_01
+  image: registry.gitlab.com/mafda/python-linting
+  script:
+    - echo "Stage -> Build with isort"
+    - echo "Import optimization for built-ins, third-party and local libraries"
+    # - isort . --check-only
+    - isort .
+
+flake8:
+  stage: Build_Stage_02
+  image: registry.gitlab.com/mafda/python-linting
+  script:
+    - echo "Stage -> Build with flake8"
+    - echo "Code compliance with PEP8 style, code analysis for libraries errors, unused variables and complexity of implemented functions"
+    - flake8 ./modules --ignore=E501,W504
+    - flake8 ./library --ignore=E501,W504
+    - flake8 ./elements --ignore=E501,W504
+
+pylint:
+  stage: Build_Stage_03
+  image: registry.gitlab.com/mafda/python-linting
+  script:
+    - echo "Stage -> Build with pylint"
+    - echo "Code analysis for potential flaw, enforcing coding standard and potential refactoring suggestion"
+    # - find . -type f -name "*.py" | xargs pylint
+    # - shopt -s globstar  # for Bash
+    - pylint ./modules --disable=C0103,C0301,C0411,E0401,R0902,R0912,R0913,R0914,R0915,R1710,R1719,W0603,C0206,R1702
+
+run_tests:
+    stage: Tests
+    image: python:3.9
+    before_script:
+        - pip install pytest
+        - pip install openpyxl
+        - pip install -r requirements.txt
+    script:
+        - pytest ./tests/smoke_test_falling.py -v
+        - pytest ./tests/smoke_test_rising.py -v
+   

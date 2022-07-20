@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<Betriebsstellenfahrwege>
+  <Betriebsstellenfahrweg>
+    <Name>ZDW_STUMPF.Gls6.ZDF_rg</Name>
+    <Anfang Typ="Prellbock" ID="535"/>
+    <Ende Typ="Betriebsstellengrenze" ID="692">1987-2</Ende>
+    <Reisezughalt Typ="HalteplatzRzLinksF" ID="531">Bstg1-K6</Reisezughalt>
+    <Attribute>
+      <Elektrifiziert/>
+    </Attribute>
+    <Verlauf>
+      <Abzweig/>
+      <Abzweig/>
+      <Stamm/>
+      <Stamm/>
+    </Verlauf>
+    <Prioritaeten>
+      <Prioritaet Typ="FRz">50</Prioritaet>
+      <Prioritaet Typ="NRz">50</Prioritaet>
+      <Prioritaet Typ="Rz">50</Prioritaet>
+      <Prioritaet Typ="FGz">50</Prioritaet>
+      <Prioritaet Typ="NGz">50</Prioritaet>
+      <Prioritaet Typ="Gz">50</Prioritaet>
+      <Prioritaet Typ="S">50</Prioritaet>
+      <Prioritaet Typ="Lz">50</Prioritaet>
+      <Prioritaet Typ="GzG">50</Prioritaet>
+    </Prioritaeten>
+    <LetzteAenderung>15.07.2021 10:46:17</LetzteAenderung>
+  </Betriebsstellenfahrweg>
+  <Betriebsstellenfahrweg>
+    <Name>ZDW_rg.Gls2.ZDMA_rg</Name>
+    <Anfang Typ="Betriebsstellengrenze" ID="65">1987-2</Anfang>
+    <Ende Typ="Betriebsstellengrenze" ID="14">1987-0</Ende>
+    <Reisezughalt Typ="HalteplatzRzLinksF" ID="58">Bst1K2f</Reisezughalt>
+    <Attribute>
+      <DurchfahrtOhneHaltMoeglich/>
+      <Elektrifiziert/>
+    </Attribute>
+    <Verlauf>
+      <Stamm/>
+      <Stamm/>
+    </Verlauf>
+    <Prioritaeten>
+      <Prioritaet Typ="FRz">50</Prioritaet>
+      <Prioritaet Typ="NRz">50</Prioritaet>
+      <Prioritaet Typ="Rz">50</Prioritaet>
+      <Prioritaet Typ="FGz">50</Prioritaet>
+      <Prioritaet Typ="NGz">50</Prioritaet>
+      <Prioritaet Typ="Gz">50</Prioritaet>
+      <Prioritaet Typ="S">50</Prioritaet>
+      <Prioritaet Typ="Lz">50</Prioritaet>
+      <Prioritaet Typ="GzG">50</Prioritaet>
+    </Prioritaeten>
+    <LetzteAenderung>12.03.2021 10:14:38</LetzteAenderung>
+  </Betriebsstellenfahrweg>
+  <Betriebsstellenfahrweg>
+    <Name>ZDF_rg.Gls1.ZDSH_Gz_rg</Name>
+    <Anfang Typ="Betriebsstellengrenze" ID="244">1987-0</Anfang>
+    <Ende Typ="Gleisende" ID="316">A1</Ende>
+    <Reisezughalt Typ="HalteplatzRzLinksF" ID="290">Bst1K1f</Reisezughalt>
+    <Attribute>
+      <DurchfahrtOhneHaltMoeglich/>
+      <Elektrifiziert/>
+    </Attribute>
+    <Verlauf>
+      <Stamm/>
+      <Abzweig/>
+      <Abzweig/>
+      <Abzweig/>
+      <Abzweig/>
+      <Stamm/>
+    </Verlauf>
+    <Prioritaeten>
+      <Prioritaet Typ="FRz">50</Prioritaet>
+      <Prioritaet Typ="NRz">50</Prioritaet>
+      <Prioritaet Typ="Rz">50</Prioritaet>
+      <Prioritaet Typ="FGz">50</Prioritaet>
+      <Prioritaet Typ="NGz">50</Prioritaet>
+      <Prioritaet Typ="Gz">50</Prioritaet>
+      <Prioritaet Typ="S">50</Prioritaet>
+      <Prioritaet Typ="Lz">50</Prioritaet>
+      <Prioritaet Typ="GzG">50</Prioritaet>
+    </Prioritaeten>
+    <LetzteAenderung>25.06.2021 15:00:23</LetzteAenderung>
+  </Betriebsstellenfahrweg>
+</Betriebsstellenfahrwege>

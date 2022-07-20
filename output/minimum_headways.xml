@@ -1,0 +1,3087 @@
+<?xml version="1.0" ?>
+<minimum_headways>
+  <Section ID_exitsignal="50">
+    <TrainPair>
+      <Name>IC100 3101 - IC100 3103</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - IC100 3105</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - ICE500 5001</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - RB20 2212</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - RB20 2214</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - S2 1212</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - S2 1214</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - S2 1216</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - S2 1218</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - IC100 3101</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - IC100 3105</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - ICE500 5001</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - RB20 2212</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - RB20 2214</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - S2 1212</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - S2 1214</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - S2 1216</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - S2 1218</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - IC100 3101</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - IC100 3103</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - ICE500 5001</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - RB20 2212</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - RB20 2214</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - S2 1212</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - S2 1214</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - S2 1216</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - S2 1218</Name>
+      <Value>2.1315</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - IC100 3101</Name>
+      <Value>2.0717999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - IC100 3103</Name>
+      <Value>2.0717999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - IC100 3105</Name>
+      <Value>2.0717999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - RB20 2212</Name>
+      <Value>2.0717999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - RB20 2214</Name>
+      <Value>2.0717999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - S2 1212</Name>
+      <Value>2.0717999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - S2 1214</Name>
+      <Value>2.0717999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - S2 1216</Name>
+      <Value>2.0717999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - S2 1218</Name>
+      <Value>2.0717999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2212 - IC100 3101</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2212 - IC100 3103</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2212 - IC100 3105</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2212 - ICE500 5001</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2212 - RB20 2214</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2212 - S2 1212</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2212 - S2 1214</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2212 - S2 1216</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2212 - S2 1218</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2214 - IC100 3101</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2214 - IC100 3103</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2214 - IC100 3105</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2214 - ICE500 5001</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2214 - RB20 2212</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2214 - S2 1212</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2214 - S2 1214</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2214 - S2 1216</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2214 - S2 1218</Name>
+      <Value>2.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1212 - IC100 3101</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1212 - IC100 3103</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1212 - IC100 3105</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1212 - ICE500 5001</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1212 - RB20 2212</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1212 - RB20 2214</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1212 - S2 1214</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1212 - S2 1216</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1212 - S2 1218</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1214 - IC100 3101</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1214 - IC100 3103</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1214 - IC100 3105</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1214 - ICE500 5001</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1214 - RB20 2212</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1214 - RB20 2214</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1214 - S2 1212</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1214 - S2 1216</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1214 - S2 1218</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1216 - IC100 3101</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1216 - IC100 3103</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1216 - IC100 3105</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1216 - ICE500 5001</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1216 - RB20 2212</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1216 - RB20 2214</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1216 - S2 1212</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1216 - S2 1214</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1216 - S2 1218</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1218 - IC100 3101</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1218 - IC100 3103</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1218 - IC100 3105</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1218 - ICE500 5001</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1218 - RB20 2212</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1218 - RB20 2214</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1218 - S2 1212</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1218 - S2 1214</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1218 - S2 1216</Name>
+      <Value>2.8434</Value>
+    </TrainPair>
+  </Section>
+  <Section ID_exitsignal="3">
+    <TrainPair>
+      <Name>IC100 3101 - IC100 3103</Name>
+      <Value>1.6066000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - IC100 3105</Name>
+      <Value>1.6066000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - ICE500 5001</Name>
+      <Value>1.6066000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - S1 1111</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - S1 1113</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - S1 1115</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - S1 1117</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - S1 1119</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - S1 1121</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - S1 1123</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3101 - S1 1125</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - IC100 3101</Name>
+      <Value>1.6066000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - IC100 3105</Name>
+      <Value>1.6066000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - ICE500 5001</Name>
+      <Value>1.6066000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - S1 1111</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - S1 1113</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - S1 1115</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - S1 1117</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - S1 1119</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - S1 1121</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - S1 1123</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3103 - S1 1125</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - IC100 3101</Name>
+      <Value>1.6066000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - IC100 3103</Name>
+      <Value>1.6066000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - ICE500 5001</Name>
+      <Value>1.6066000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - S1 1111</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - S1 1113</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - S1 1115</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - S1 1117</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - S1 1119</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - S1 1121</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - S1 1123</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3105 - S1 1125</Name>
+      <Value>1.6065999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - IC100 3101</Name>
+      <Value>1.8000000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - IC100 3103</Name>
+      <Value>1.8000000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - IC100 3105</Name>
+      <Value>1.8000000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - S1 1111</Name>
+      <Value>1.8000000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - S1 1113</Name>
+      <Value>1.8000000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - S1 1115</Name>
+      <Value>1.8000000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - S1 1117</Name>
+      <Value>1.8000000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - S1 1119</Name>
+      <Value>1.8000000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - S1 1121</Name>
+      <Value>1.8000000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - S1 1123</Name>
+      <Value>1.8000000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5001 - S1 1125</Name>
+      <Value>1.8000000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1111 - IC100 3101</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1111 - IC100 3103</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1111 - IC100 3105</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1111 - ICE500 5001</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1111 - S1 1113</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1111 - S1 1115</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1111 - S1 1117</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1111 - S1 1119</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1111 - S1 1121</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1111 - S1 1123</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1111 - S1 1125</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1113 - IC100 3101</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1113 - IC100 3103</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1113 - IC100 3105</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1113 - ICE500 5001</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1113 - S1 1111</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1113 - S1 1115</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1113 - S1 1117</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1113 - S1 1119</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1113 - S1 1121</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1113 - S1 1123</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1113 - S1 1125</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1115 - IC100 3101</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1115 - IC100 3103</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1115 - IC100 3105</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1115 - ICE500 5001</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1115 - S1 1111</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1115 - S1 1113</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1115 - S1 1117</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1115 - S1 1119</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1115 - S1 1121</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1115 - S1 1123</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1115 - S1 1125</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1117 - IC100 3101</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1117 - IC100 3103</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1117 - IC100 3105</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1117 - ICE500 5001</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1117 - S1 1111</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1117 - S1 1113</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1117 - S1 1115</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1117 - S1 1119</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1117 - S1 1121</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1117 - S1 1123</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1117 - S1 1125</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1119 - IC100 3101</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1119 - IC100 3103</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1119 - IC100 3105</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1119 - ICE500 5001</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1119 - S1 1111</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1119 - S1 1113</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1119 - S1 1115</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1119 - S1 1117</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1119 - S1 1121</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1119 - S1 1123</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1119 - S1 1125</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1121 - IC100 3101</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1121 - IC100 3103</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1121 - IC100 3105</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1121 - ICE500 5001</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1121 - S1 1111</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1121 - S1 1113</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1121 - S1 1115</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1121 - S1 1117</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1121 - S1 1119</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1121 - S1 1123</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1121 - S1 1125</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1123 - IC100 3101</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1123 - IC100 3103</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1123 - IC100 3105</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1123 - ICE500 5001</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1123 - S1 1111</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1123 - S1 1113</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1123 - S1 1115</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1123 - S1 1117</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1123 - S1 1119</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1123 - S1 1121</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1123 - S1 1125</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1125 - IC100 3101</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1125 - IC100 3103</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1125 - IC100 3105</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1125 - ICE500 5001</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1125 - S1 1111</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1125 - S1 1113</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1125 - S1 1115</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1125 - S1 1117</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1125 - S1 1119</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1125 - S1 1121</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1125 - S1 1123</Name>
+      <Value>2.1268</Value>
+    </TrainPair>
+  </Section>
+  <Section ID_exitsignal="11">
+    <TrainPair>
+      <Name>IC100 3102 - IC100 3104</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - IC100 3106</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - IC300 3302</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - ICE500 5002</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - RB40 2410</Name>
+      <Value>1.4400000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - RB40 2412</Name>
+      <Value>1.4400000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - RB40 2414</Name>
+      <Value>1.4400000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - RB40 2416</Name>
+      <Value>1.4400000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - RE50 2512</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - RE50 2514</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - S1 1112</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - S1 1114</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - S1 1116</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - S1 1118</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - S1 1120</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - S1 1122</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - S1 1124</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - S1 1126</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - IC100 3102</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - IC100 3106</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - IC300 3302</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - ICE500 5002</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - RB40 2410</Name>
+      <Value>1.4400000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - RB40 2412</Name>
+      <Value>1.4400000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - RB40 2414</Name>
+      <Value>1.4400000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - RB40 2416</Name>
+      <Value>1.4400000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - RE50 2512</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - RE50 2514</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - S1 1112</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - S1 1114</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - S1 1116</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - S1 1118</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - S1 1120</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - S1 1122</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - S1 1124</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - S1 1126</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - IC100 3102</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - IC100 3104</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - IC300 3302</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - ICE500 5002</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - RB40 2410</Name>
+      <Value>1.4400000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - RB40 2412</Name>
+      <Value>1.4400000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - RB40 2414</Name>
+      <Value>1.4400000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - RB40 2416</Name>
+      <Value>1.4400000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - RE50 2512</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - RE50 2514</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - S1 1112</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - S1 1114</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - S1 1116</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - S1 1118</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - S1 1120</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - S1 1122</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - S1 1124</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - S1 1126</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - IC100 3102</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - IC100 3104</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - IC100 3106</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - ICE500 5002</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - RB40 2410</Name>
+      <Value>1.4400000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - RB40 2412</Name>
+      <Value>1.4400000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - RB40 2414</Name>
+      <Value>1.4400000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - RB40 2416</Name>
+      <Value>1.4400000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - RE50 2512</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - RE50 2514</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - S1 1112</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - S1 1114</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - S1 1116</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - S1 1118</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - S1 1120</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - S1 1122</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - S1 1124</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - S1 1126</Name>
+      <Value>1.44</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - IC100 3102</Name>
+      <Value>1.4516999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - IC100 3104</Name>
+      <Value>1.4516999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - IC100 3106</Name>
+      <Value>1.4516999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - IC300 3302</Name>
+      <Value>1.4516999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - RB40 2410</Name>
+      <Value>1.4517</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - RB40 2412</Name>
+      <Value>1.4517</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - RB40 2414</Name>
+      <Value>1.4517</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - RB40 2416</Name>
+      <Value>1.4517</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - RE50 2512</Name>
+      <Value>1.4516999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - RE50 2514</Name>
+      <Value>1.4516999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - S1 1112</Name>
+      <Value>1.4516999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - S1 1114</Name>
+      <Value>1.4516999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - S1 1116</Name>
+      <Value>1.4516999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - S1 1118</Name>
+      <Value>1.4516999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - S1 1120</Name>
+      <Value>1.4516999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - S1 1122</Name>
+      <Value>1.4516999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - S1 1124</Name>
+      <Value>1.4516999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - S1 1126</Name>
+      <Value>1.4516999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - IC100 3102</Name>
+      <Value>1.9549999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - IC100 3104</Name>
+      <Value>1.9549999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - IC100 3106</Name>
+      <Value>1.9549999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - IC300 3302</Name>
+      <Value>1.9549999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - ICE500 5002</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - RB40 2412</Name>
+      <Value>1.9549999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - RB40 2414</Name>
+      <Value>1.9549999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - RB40 2416</Name>
+      <Value>1.9549999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - RE50 2512</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - RE50 2514</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - S1 1112</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - S1 1114</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - S1 1116</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - S1 1118</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - S1 1120</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - S1 1122</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - S1 1124</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2410 - S1 1126</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - IC100 3102</Name>
+      <Value>1.9549999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - IC100 3104</Name>
+      <Value>1.9549999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - IC100 3106</Name>
+      <Value>1.9549999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - IC300 3302</Name>
+      <Value>1.9549999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - ICE500 5002</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - RB40 2410</Name>
+      <Value>1.9549999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - RB40 2414</Name>
+      <Value>1.9549999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - RB40 2416</Name>
+      <Value>1.9549999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - RE50 2512</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - RE50 2514</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - S1 1112</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - S1 1114</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - S1 1116</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - S1 1118</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - S1 1120</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - S1 1122</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - S1 1124</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2412 - S1 1126</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - IC100 3102</Name>
+      <Value>1.9549999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - IC100 3104</Name>
+      <Value>1.9549999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - IC100 3106</Name>
+      <Value>1.9549999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - IC300 3302</Name>
+      <Value>1.9549999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - ICE500 5002</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - RB40 2410</Name>
+      <Value>1.9549999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - RB40 2412</Name>
+      <Value>1.9549999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - RB40 2416</Name>
+      <Value>1.9549999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - RE50 2512</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - RE50 2514</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - S1 1112</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - S1 1114</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - S1 1116</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - S1 1118</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - S1 1120</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - S1 1122</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - S1 1124</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2414 - S1 1126</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - IC100 3102</Name>
+      <Value>1.9549999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - IC100 3104</Name>
+      <Value>1.9549999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - IC100 3106</Name>
+      <Value>1.9549999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - IC300 3302</Name>
+      <Value>1.9549999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - ICE500 5002</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - RB40 2410</Name>
+      <Value>1.9549999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - RB40 2412</Name>
+      <Value>1.9549999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - RB40 2414</Name>
+      <Value>1.9549999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - RE50 2512</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - RE50 2514</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - S1 1112</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - S1 1114</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - S1 1116</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - S1 1118</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - S1 1120</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - S1 1122</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - S1 1124</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2416 - S1 1126</Name>
+      <Value>1.955</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - IC100 3102</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - IC100 3104</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - IC100 3106</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - IC300 3302</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - ICE500 5002</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - RB40 2410</Name>
+      <Value>1.5433000000000001</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - RB40 2412</Name>
+      <Value>1.5433000000000001</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - RB40 2414</Name>
+      <Value>1.5433000000000001</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - RB40 2416</Name>
+      <Value>1.5433000000000001</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - RE50 2514</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - S1 1112</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - S1 1114</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - S1 1116</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - S1 1118</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - S1 1120</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - S1 1122</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - S1 1124</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - S1 1126</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - IC100 3102</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - IC100 3104</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - IC100 3106</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - IC300 3302</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - ICE500 5002</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - RB40 2410</Name>
+      <Value>1.5433000000000001</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - RB40 2412</Name>
+      <Value>1.5433000000000001</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - RB40 2414</Name>
+      <Value>1.5433000000000001</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - RB40 2416</Name>
+      <Value>1.5433000000000001</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - RE50 2512</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - S1 1112</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - S1 1114</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - S1 1116</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - S1 1118</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - S1 1120</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - S1 1122</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - S1 1124</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - S1 1126</Name>
+      <Value>1.5433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - IC100 3102</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - IC100 3104</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - IC100 3106</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - IC300 3302</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - ICE500 5002</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - RB40 2410</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - RB40 2412</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - RB40 2414</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - RB40 2416</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - RE50 2512</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - RE50 2514</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - S1 1114</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - S1 1116</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - S1 1118</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - S1 1120</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - S1 1122</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - S1 1124</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1112 - S1 1126</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - IC100 3102</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - IC100 3104</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - IC100 3106</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - IC300 3302</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - ICE500 5002</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - RB40 2410</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - RB40 2412</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - RB40 2414</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - RB40 2416</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - RE50 2512</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - RE50 2514</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - S1 1112</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - S1 1116</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - S1 1118</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - S1 1120</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - S1 1122</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - S1 1124</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1114 - S1 1126</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - IC100 3102</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - IC100 3104</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - IC100 3106</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - IC300 3302</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - ICE500 5002</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - RB40 2410</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - RB40 2412</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - RB40 2414</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - RB40 2416</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - RE50 2512</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - RE50 2514</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - S1 1112</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - S1 1114</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - S1 1118</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - S1 1120</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - S1 1122</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - S1 1124</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1116 - S1 1126</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - IC100 3102</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - IC100 3104</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - IC100 3106</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - IC300 3302</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - ICE500 5002</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - RB40 2410</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - RB40 2412</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - RB40 2414</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - RB40 2416</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - RE50 2512</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - RE50 2514</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - S1 1112</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - S1 1114</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - S1 1116</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - S1 1120</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - S1 1122</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - S1 1124</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1118 - S1 1126</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - IC100 3102</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - IC100 3104</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - IC100 3106</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - IC300 3302</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - ICE500 5002</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - RB40 2410</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - RB40 2412</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - RB40 2414</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - RB40 2416</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - RE50 2512</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - RE50 2514</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - S1 1112</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - S1 1114</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - S1 1116</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - S1 1118</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - S1 1122</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - S1 1124</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1120 - S1 1126</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - IC100 3102</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - IC100 3104</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - IC100 3106</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - IC300 3302</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - ICE500 5002</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - RB40 2410</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - RB40 2412</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - RB40 2414</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - RB40 2416</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - RE50 2512</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - RE50 2514</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - S1 1112</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - S1 1114</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - S1 1116</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - S1 1118</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - S1 1120</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - S1 1124</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1122 - S1 1126</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - IC100 3102</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - IC100 3104</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - IC100 3106</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - IC300 3302</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - ICE500 5002</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - RB40 2410</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - RB40 2412</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - RB40 2414</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - RB40 2416</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - RE50 2512</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - RE50 2514</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - S1 1112</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - S1 1114</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - S1 1116</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - S1 1118</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - S1 1120</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - S1 1122</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1124 - S1 1126</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - IC100 3102</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - IC100 3104</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - IC100 3106</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - IC300 3302</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - ICE500 5002</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - RB40 2410</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - RB40 2412</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - RB40 2414</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - RB40 2416</Name>
+      <Value>1.9334</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - RE50 2512</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - RE50 2514</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - S1 1112</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - S1 1114</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - S1 1116</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - S1 1118</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - S1 1120</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - S1 1122</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S1 1126 - S1 1124</Name>
+      <Value>1.9333999999999998</Value>
+    </TrainPair>
+  </Section>
+  <Section ID_exitsignal="56">
+    <TrainPair>
+      <Name>IC100 3102 - IC100 3104</Name>
+      <Value>1.71</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - IC100 3106</Name>
+      <Value>1.71</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - IC300 3302</Name>
+      <Value>1.71</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - ICE500 5002</Name>
+      <Value>1.71</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - RB20 2213</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - RB20 2215</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - RE50 2512</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - RE50 2514</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - S2 1211</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - S2 1213</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - S2 1215</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3102 - S2 1217</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - IC100 3102</Name>
+      <Value>1.71</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - IC100 3106</Name>
+      <Value>1.71</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - IC300 3302</Name>
+      <Value>1.71</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - ICE500 5002</Name>
+      <Value>1.71</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - RB20 2213</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - RB20 2215</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - RE50 2512</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - RE50 2514</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - S2 1211</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - S2 1213</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - S2 1215</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3104 - S2 1217</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - IC100 3102</Name>
+      <Value>1.71</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - IC100 3104</Name>
+      <Value>1.71</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - IC300 3302</Name>
+      <Value>1.71</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - ICE500 5002</Name>
+      <Value>1.71</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - RB20 2213</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - RB20 2215</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - RE50 2512</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - RE50 2514</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - S2 1211</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - S2 1213</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - S2 1215</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC100 3106 - S2 1217</Name>
+      <Value>1.7099999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - IC100 3102</Name>
+      <Value>2.1283</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - IC100 3104</Name>
+      <Value>2.1283</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - IC100 3106</Name>
+      <Value>2.1283</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - ICE500 5002</Name>
+      <Value>2.1283</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - RB20 2213</Name>
+      <Value>2.1283000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - RB20 2215</Name>
+      <Value>2.1283000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - RE50 2512</Name>
+      <Value>2.1283000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - RE50 2514</Name>
+      <Value>2.1283000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - S2 1211</Name>
+      <Value>2.1283000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - S2 1213</Name>
+      <Value>2.1283000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - S2 1215</Name>
+      <Value>2.1283000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3302 - S2 1217</Name>
+      <Value>2.1283000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - IC100 3102</Name>
+      <Value>1.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - IC100 3104</Name>
+      <Value>1.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - IC100 3106</Name>
+      <Value>1.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - IC300 3302</Name>
+      <Value>1.7466999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - RB20 2213</Name>
+      <Value>1.7467</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - RB20 2215</Name>
+      <Value>1.7467</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - RE50 2512</Name>
+      <Value>1.7467</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - RE50 2514</Name>
+      <Value>1.7467</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - S2 1211</Name>
+      <Value>1.7467</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - S2 1213</Name>
+      <Value>1.7467</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - S2 1215</Name>
+      <Value>1.7467</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>ICE500 5002 - S2 1217</Name>
+      <Value>1.7467</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2213 - IC100 3102</Name>
+      <Value>1.8466</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2213 - IC100 3104</Name>
+      <Value>1.8466</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2213 - IC100 3106</Name>
+      <Value>1.8466</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2213 - IC300 3302</Name>
+      <Value>1.8466</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2213 - ICE500 5002</Name>
+      <Value>1.8466</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2213 - RB20 2215</Name>
+      <Value>1.8466000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2213 - RE50 2512</Name>
+      <Value>1.8466000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2213 - RE50 2514</Name>
+      <Value>1.8466000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2213 - S2 1211</Name>
+      <Value>1.8466000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2213 - S2 1213</Name>
+      <Value>1.8466000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2213 - S2 1215</Name>
+      <Value>1.8466000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2213 - S2 1217</Name>
+      <Value>1.8466000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2215 - IC100 3102</Name>
+      <Value>1.8466</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2215 - IC100 3104</Name>
+      <Value>1.8466</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2215 - IC100 3106</Name>
+      <Value>1.8466</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2215 - IC300 3302</Name>
+      <Value>1.8466</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2215 - ICE500 5002</Name>
+      <Value>1.8466</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2215 - RB20 2213</Name>
+      <Value>1.8466000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2215 - RE50 2512</Name>
+      <Value>1.8466000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2215 - RE50 2514</Name>
+      <Value>1.8466000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2215 - S2 1211</Name>
+      <Value>1.8466000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2215 - S2 1213</Name>
+      <Value>1.8466000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2215 - S2 1215</Name>
+      <Value>1.8466000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB20 2215 - S2 1217</Name>
+      <Value>1.8466000000000002</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - IC100 3102</Name>
+      <Value>2.1782999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - IC100 3104</Name>
+      <Value>2.1782999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - IC100 3106</Name>
+      <Value>2.1782999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - IC300 3302</Name>
+      <Value>2.1782999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - ICE500 5002</Name>
+      <Value>2.1782999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - RB20 2213</Name>
+      <Value>2.1783</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - RB20 2215</Name>
+      <Value>2.1783</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - RE50 2514</Name>
+      <Value>2.1783</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - S2 1211</Name>
+      <Value>2.1783</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - S2 1213</Name>
+      <Value>2.1783</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - S2 1215</Name>
+      <Value>2.1783</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2512 - S2 1217</Name>
+      <Value>2.1783</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - IC100 3102</Name>
+      <Value>2.1782999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - IC100 3104</Name>
+      <Value>2.1782999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - IC100 3106</Name>
+      <Value>2.1782999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - IC300 3302</Name>
+      <Value>2.1782999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - ICE500 5002</Name>
+      <Value>2.1782999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - RB20 2213</Name>
+      <Value>2.1783</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - RB20 2215</Name>
+      <Value>2.1783</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - RE50 2512</Name>
+      <Value>2.1783</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - S2 1211</Name>
+      <Value>2.1783</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - S2 1213</Name>
+      <Value>2.1783</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - S2 1215</Name>
+      <Value>2.1783</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2514 - S2 1217</Name>
+      <Value>2.1783</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1211 - IC100 3102</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1211 - IC100 3104</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1211 - IC100 3106</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1211 - IC300 3302</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1211 - ICE500 5002</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1211 - RB20 2213</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1211 - RB20 2215</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1211 - RE50 2512</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1211 - RE50 2514</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1211 - S2 1213</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1211 - S2 1215</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1211 - S2 1217</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1213 - IC100 3102</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1213 - IC100 3104</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1213 - IC100 3106</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1213 - IC300 3302</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1213 - ICE500 5002</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1213 - RB20 2213</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1213 - RB20 2215</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1213 - RE50 2512</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1213 - RE50 2514</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1213 - S2 1211</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1213 - S2 1215</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1213 - S2 1217</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1215 - IC100 3102</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1215 - IC100 3104</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1215 - IC100 3106</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1215 - IC300 3302</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1215 - ICE500 5002</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1215 - RB20 2213</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1215 - RB20 2215</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1215 - RE50 2512</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1215 - RE50 2514</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1215 - S2 1211</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1215 - S2 1213</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1215 - S2 1217</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1217 - IC100 3102</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1217 - IC100 3104</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1217 - IC100 3106</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1217 - IC300 3302</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1217 - ICE500 5002</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1217 - RB20 2213</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1217 - RB20 2215</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1217 - RE50 2512</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1217 - RE50 2514</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1217 - S2 1211</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1217 - S2 1213</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>S2 1217 - S2 1215</Name>
+      <Value>2.2533000000000003</Value>
+    </TrainPair>
+  </Section>
+  <Section ID_exitsignal="740">
+    <TrainPair>
+      <Name>IC300 3301 - RB40 2411</Name>
+      <Value>1.2680999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3301 - RB40 2413</Name>
+      <Value>1.2680999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3301 - RB40 2415</Name>
+      <Value>1.2680999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3301 - RB40 2417</Name>
+      <Value>1.2680999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3301 - RE50 2511</Name>
+      <Value>1.7249999999999992</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3301 - RE50 2513</Name>
+      <Value>1.7249999999999992</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2411 - IC300 3301</Name>
+      <Value>2.5835000000000004</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2411 - RB40 2413</Name>
+      <Value>2.1433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2411 - RB40 2415</Name>
+      <Value>2.1433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2411 - RB40 2417</Name>
+      <Value>2.1433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2411 - RE50 2511</Name>
+      <Value>2.6502</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2411 - RE50 2513</Name>
+      <Value>2.6502</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2413 - IC300 3301</Name>
+      <Value>2.5835000000000004</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2413 - RB40 2411</Name>
+      <Value>2.1433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2413 - RB40 2415</Name>
+      <Value>2.1433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2413 - RB40 2417</Name>
+      <Value>2.1433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2413 - RE50 2511</Name>
+      <Value>2.6502</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2413 - RE50 2513</Name>
+      <Value>2.6502</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2415 - IC300 3301</Name>
+      <Value>2.5835000000000004</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2415 - RB40 2411</Name>
+      <Value>2.1433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2415 - RB40 2413</Name>
+      <Value>2.1433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2415 - RB40 2417</Name>
+      <Value>2.1433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2415 - RE50 2511</Name>
+      <Value>2.6502</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2415 - RE50 2513</Name>
+      <Value>2.6502</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2417 - IC300 3301</Name>
+      <Value>2.5835000000000004</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2417 - RB40 2411</Name>
+      <Value>2.1433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2417 - RB40 2413</Name>
+      <Value>2.1433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2417 - RB40 2415</Name>
+      <Value>2.1433</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2417 - RE50 2511</Name>
+      <Value>2.6502</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RB40 2417 - RE50 2513</Name>
+      <Value>2.6502</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2511 - IC300 3301</Name>
+      <Value>1.5781999999999994</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2511 - RB40 2411</Name>
+      <Value>1.2397</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2511 - RB40 2413</Name>
+      <Value>1.2397</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2511 - RB40 2415</Name>
+      <Value>1.2397</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2511 - RB40 2417</Name>
+      <Value>1.2397</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2511 - RE50 2513</Name>
+      <Value>1.6965999999999997</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2513 - IC300 3301</Name>
+      <Value>1.5781999999999994</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2513 - RB40 2411</Name>
+      <Value>1.2397</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2513 - RB40 2413</Name>
+      <Value>1.2397</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2513 - RB40 2415</Name>
+      <Value>1.2397</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2513 - RB40 2417</Name>
+      <Value>1.2397</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2513 - RE50 2511</Name>
+      <Value>1.6965999999999997</Value>
+    </TrainPair>
+  </Section>
+  <Section ID_exitsignal="370">
+    <TrainPair>
+      <Name>IC300 3301 - RE50 2511</Name>
+      <Value>1.8533999999999993</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>IC300 3301 - RE50 2513</Name>
+      <Value>1.8533999999999993</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2511 - IC300 3301</Name>
+      <Value>2.6033999999999993</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2511 - RE50 2513</Name>
+      <Value>2.2834999999999996</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2513 - IC300 3301</Name>
+      <Value>2.6033999999999993</Value>
+    </TrainPair>
+    <TrainPair>
+      <Name>RE50 2513 - RE50 2511</Name>
+      <Value>2.2834999999999996</Value>
+    </TrainPair>
+  </Section>
+</minimum_headways>

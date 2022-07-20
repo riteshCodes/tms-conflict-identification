@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<Verlauf>
+  <Knoten>
+    <Gleisende>
+      <ID>162</ID>
+      <ExterneID>895285833</ExterneID>
+      <Kilometrierung>41,331</Kilometrierung>
+      <LetzteAenderung>09.12.2020 14:21:45</LetzteAenderung>
+      <Name>E0</Name>
+      <Bildkoordinaten>
+        <X>65,8179</X>
+        <Y>14,0</Y>
+      </Bildkoordinaten>
+    </Gleisende>
+    <VorsignalF>
+      <ID>161</ID>
+      <ExterneID>895291033</ExterneID>
+      <Kilometrierung>41,331</Kilometrierung>
+      <LetzteAenderung>09.12.2020 14:21:45</LetzteAenderung>
+      <Name>13-Vf</Name>
+      <Signalart Typ="FAHRWEGPUNKT-ART" Kategorie="SIG" Schluessel="VE">Vorsignal zum Einfahrsignal</Signalart>
+      <FstrBildezeit Einheit="s">9</FstrBildezeit>
+    </VorsignalF>
+    <FstrZugschlussstelleS>
+      <ID>160</ID>
+      <ExterneID>895292533</ExterneID>
+      <Kilometrierung>40,455</Kilometrierung>
+      <LetzteAenderung>09.12.2020 14:21:45</LetzteAenderung>
+      <FstrAufloesezeit Einheit="s">3</FstrAufloesezeit>
+    </FstrZugschlussstelleS>
+    <HauptsignalF>
+      <ID>159</ID>
+      <ExterneID>895291733</ExterneID>
+      <Kilometrierung>40,319</Kilometrierung>
+      <LetzteAenderung>09.12.2020 14:21:45</LetzteAenderung>
+      <Name>13-F</Name>
+      <Signalart Typ="FAHRWEGPUNKT-ART" Kategorie="SIG" Schluessel="ESIG">Standort Einfahrsignal</Signalart>
+      <DwegAufloesezeit Einheit="s">3</DwegAufloesezeit>
+      <AnzahlVSigBisRelevant>1</AnzahlVSigBisRelevant>
+    </HauptsignalF>
+    <FstrZugschlussstelleS>
+      <ID>158</ID>
+      <ExterneID>895292033</ExterneID>
+      <Kilometrierung>40,319</Kilometrierung>
+      <LetzteAenderung>09.12.2020 14:21:45</LetzteAenderung>
+      <FstrAufloesezeit Einheit="s">3</FstrAufloesezeit>
+    </FstrZugschlussstelleS>
+    <FstrZugschlussstelleS>
+      <ID>157</ID>
+      <ExterneID>895290233</ExterneID>
+      <Kilometrierung>40,166</Kilometrierung>
+      <LetzteAenderung>09.12.2020 14:21:45</LetzteAenderung>
+      <FstrAufloesezeit Einheit="s">3</FstrAufloesezeit>
+    </FstrZugschlussstelleS>
+    <GeschwZulaessigS>
+      <ID>156</ID>
+      <ExterneID>895391433</ExterneID>
+      <Kilometrierung>40,046</Kilometrierung>
+      <LetzteAenderung>15.07.2021 14:31:45</LetzteAenderung>
+      <Geschw Einheit="km/h">160</Geschw>
+      <Wirkungsort>Hier</Wirkungsort>
+      <Zugbeeinflussung>Alle</Zugbeeinflussung>
+    </GeschwZulaessigS>
+    <Weichenstamm>
+      <ID>136</ID>
+      <ExterneID>895339933</ExterneID>
+      <Kilometrierung>40,046</Kilometrierung>
+      <LetzteAenderung>09.12.2020 14:21:45</LetzteAenderung>
+      <Partner Typ="Weichenanfang" ID="129">13-W13</Partner>
+    </Weichenstamm>
+    <Weichenanfang>
+      <ID>129</ID>
+      <ExterneID>895340133</ExterneID>
+      <Kilometrierung>40,046</Kilometrierung>
+      <LetzteAenderung>09.12.2020 14:21:45</LetzteAenderung>
+      <Name>13-W13</Name>
+      <Stamm Typ="Weichenstamm" ID="136">13-W13</Stamm>
+      <Abzweig Typ="WeichenabzweigRechts" ID="128">13-W13</Abzweig>
+      <Bildkoordinaten>
+        <X>58,8897</X>
+        <Y>14,0</Y>
+      </Bildkoordinaten>
+    </Weichenanfang>
+    <SignalZugschlussstelleS>
+      <ID>135</ID>
+      <ExterneID>895321333</ExterneID>
+      <Kilometrierung>40,038</Kilometrierung>
+      <LetzteAenderung>09.12.2020 14:19:25</LetzteAenderung>
+      <FstrAufloesezeit Einheit="s">3</FstrAufloesezeit>
+    </SignalZugschlussstelleS>
+    <Weichenanfang>
+      <ID>102</ID>
+      <ExterneID>895339333</ExterneID>
+      <Kilometrierung>40,038</Kilometrierung>
+      <LetzteAenderung>09.12.2020 14:21:45</LetzteAenderung>
+      <Name>11-W12</Name>
+      <Stamm Typ="Weichenstamm" ID="134">11-W12</Stamm>
+      <Abzweig Typ="WeichenabzweigRechts" ID="101">11-W12</Abzweig>
+      <Bildkoordinaten>
+        <X>56,5803</X>
+        <Y>14,0</Y>
+      </Bildkoordinaten>
+    </Weichenanfang>
+    <Weichenstamm>
+      <ID>134</ID>
+      <ExterneID>895339133</ExterneID>
+      <Kilometrierung>40,038</Kilometrierung>
+      <LetzteAenderung>09.12.2020 14:19:25</LetzteAenderung>
+      <Partner Typ="Weichenanfang" ID="102">11-W12</Partner>
+    </Weichenstamm>
+    <FstrZugschlussstelleS>
+      <ID>153</ID>
+      <ExterneID>895290933</ExterneID>
+      <Kilometrierung>39,937</Kilometrierung>
+      <LetzteAenderung>09.12.2020 14:19:25</LetzteAenderung>
+      <FstrAufloesezeit Einheit="s">3</FstrAufloesezeit>
+    </FstrZugschlussstelleS>
+    <SchutzsignalS>
+      <ID>152</ID>
+      <ExterneID>895295633</ExterneID>
+      <Kilometrierung>39,937</Kilometrierung>
+      <LetzteAenderung>09.12.2020 14:19:25</LetzteAenderung>
+      <Name>13-2X</Name>
+      <DwegAufloesezeit Einheit="s">3</DwegAufloesezeit>
+      <AnzahlVSigBisRelevant>1</AnzahlVSigBisRelevant>
+    </SchutzsignalS>
+    <FstrZugschlussstelleS>
+      <ID>151</ID>
+      <ExterneID>895290333</ExterneID>
+      <Kilometrierung>39,248</Kilometrierung>
+      <LetzteAenderung>09.12.2020 14:19:25</LetzteAenderung>
+      <FstrAufloesezeit Einheit="s">3</FstrAufloesezeit>
+    </FstrZugschlussstelleS>
+    <HalteplatzRzRechtsF>
+      <ID>150</ID>
+      <ExterneID>895296933</ExterneID>
+      <Kilometrierung>39,222</Kilometrierung>
+      <LetzteAenderung>09.12.2020 16:09:45</LetzteAenderung>
+      <Name>Bstg2-K2</Name>
+      <Laenge Einheit="m">600</Laenge>
+    </HalteplatzRzRechtsF>
+    <Weichenanfang>
+      <ID>147</ID>
+      <ExterneID>895339633</ExterneID>
+      <Kilometrierung>39,096</Kilometrierung>
+      <LetzteAenderung>09.12.2020 14:19:25</LetzteAenderung>
+      <Name>13-W3</Name>
+      <Stamm Typ="Weichenstamm" ID="146">13-W3</Stamm>
+      <Abzweig Typ="WeichenabzweigLinks" ID="155">13-W3</Abzweig>
+      <Bildkoordinaten>
+        <X>47,3427</X>
+        <Y>14,0</Y>
+      </Bildkoordinaten>
+    </Weichenanfang>
+  </Knoten>
+</Verlauf>

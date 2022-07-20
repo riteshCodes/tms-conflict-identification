@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<Betriebsstellenfahrwege>
+  <Betriebsstellenfahrweg>
+    <Name>ZDPO_rg.Gls1.ZDW_rg</Name>
+    <Anfang Typ="Gleisende" ID="66">A10-W1</Anfang>
+    <Ende Typ="Betriebsstellengrenze" ID="44">1987-1</Ende>
+    <Reisezughalt Typ="HalteplatzRzLinksS" ID="40">Bst1K1s</Reisezughalt>
+    <Attribute>
+      <DurchfahrtOhneHaltMoeglich/>
+      <Elektrifiziert/>
+    </Attribute>
+    <Verlauf>
+      <Abzweig/>
+      <Abzweig/>
+      <Abzweig/>
+    </Verlauf>
+    <Prioritaeten>
+      <Prioritaet Typ="FRz">50</Prioritaet>
+      <Prioritaet Typ="NRz">50</Prioritaet>
+      <Prioritaet Typ="Rz">50</Prioritaet>
+      <Prioritaet Typ="FGz">50</Prioritaet>
+      <Prioritaet Typ="NGz">50</Prioritaet>
+      <Prioritaet Typ="Gz">50</Prioritaet>
+      <Prioritaet Typ="S">50</Prioritaet>
+      <Prioritaet Typ="Lz">50</Prioritaet>
+      <Prioritaet Typ="GzG">50</Prioritaet>
+    </Prioritaeten>
+    <LetzteAenderung>12.03.2021 10:14:38</LetzteAenderung>
+  </Betriebsstellenfahrweg>
+  <Betriebsstellenfahrweg>
+    <Name>ZDF_rg.Gls4.ZDK_rg</Name>
+    <Anfang Typ="Betriebsstellengrenze" ID="683">1987-1</Anfang>
+    <Ende Typ="Betriebsstellengrenze" ID="670">1987-999</Ende>
+    <Reisezughalt Typ="HalteplatzRzRechtsS" ID="741">Bstg2-K4</Reisezughalt>
+    <Attribute>
+      <DurchfahrtOhneHaltMoeglich/>
+      <Elektrifiziert/>
+    </Attribute>
+    <Verlauf>
+      <Stamm/>
+      <Stamm/>
+      <Stamm/>
+      <Stamm/>
+      <Stamm/>
+    </Verlauf>
+    <Prioritaeten>
+      <Prioritaet Typ="FRz">50</Prioritaet>
+      <Prioritaet Typ="NRz">50</Prioritaet>
+      <Prioritaet Typ="Rz">50</Prioritaet>
+      <Prioritaet Typ="FGz">50</Prioritaet>
+      <Prioritaet Typ="NGz">50</Prioritaet>
+      <Prioritaet Typ="Gz">50</Prioritaet>
+      <Prioritaet Typ="S">50</Prioritaet>
+      <Prioritaet Typ="Lz">50</Prioritaet>
+      <Prioritaet Typ="GzG">50</Prioritaet>
+    </Prioritaeten>
+    <LetzteAenderung>15.07.2021 10:38:56</LetzteAenderung>
+  </Betriebsstellenfahrweg>
+</Betriebsstellenfahrwege>

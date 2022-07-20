@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<Betriebsstellenfahrwege>
+  <Betriebsstellenfahrweg>
+    <Name>ZDF_rg.Gls3.ZDK_rg</Name>
+    <Anfang Typ="Betriebsstellengrenze" ID="683">1987-1</Anfang>
+    <Ende Typ="Betriebsstellengrenze" ID="670">1987-999</Ende>
+    <Reisezughalt Typ="HalteplatzRzLinksS" ID="647">Bstg2-K3</Reisezughalt>
+    <Attribute>
+      <DurchfahrtOhneHaltMoeglich/>
+      <Elektrifiziert/>
+    </Attribute>
+    <Verlauf>
+      <Stamm/>
+      <Stamm/>
+      <Abzweig/>
+      <Stamm/>
+      <Abzweig/>
+      <Stamm/>
+      <Abzweig/>
+      <Stamm/>
+      <Stamm/>
+      <Abzweig/>
+      <Stamm/>
+    </Verlauf>
+    <Prioritaeten>
+      <Prioritaet Typ="FRz">50</Prioritaet>
+      <Prioritaet Typ="NRz">50</Prioritaet>
+      <Prioritaet Typ="Rz">50</Prioritaet>
+      <Prioritaet Typ="FGz">50</Prioritaet>
+      <Prioritaet Typ="NGz">50</Prioritaet>
+      <Prioritaet Typ="Gz">50</Prioritaet>
+      <Prioritaet Typ="S">50</Prioritaet>
+      <Prioritaet Typ="Lz">50</Prioritaet>
+      <Prioritaet Typ="GzG">50</Prioritaet>
+    </Prioritaeten>
+    <LetzteAenderung>15.07.2021 10:38:56</LetzteAenderung>
+  </Betriebsstellenfahrweg>
+  <Betriebsstellenfahrweg>
+    <Name>ZDW_rg.Gls.ZDK_rg</Name>
+    <Anfang Typ="Betriebsstellengrenze" ID="1">1987-999</Anfang>
+    <Ende Typ="Betriebsstellengrenze" ID="6">1987-2</Ende>
+    <Attribute>
+      <DurchfahrtOhneHaltMoeglich/>
+      <Elektrifiziert/>
+    </Attribute>
+    <Verlauf/>
+    <Prioritaeten>
+      <Prioritaet Typ="FRz">50</Prioritaet>
+      <Prioritaet Typ="NRz">50</Prioritaet>
+      <Prioritaet Typ="Rz">50</Prioritaet>
+      <Prioritaet Typ="FGz">50</Prioritaet>
+      <Prioritaet Typ="NGz">50</Prioritaet>
+      <Prioritaet Typ="Gz">50</Prioritaet>
+      <Prioritaet Typ="S">50</Prioritaet>
+      <Prioritaet Typ="Lz">50</Prioritaet>
+      <Prioritaet Typ="GzG">50</Prioritaet>
+    </Prioritaeten>
+    <LetzteAenderung>15.07.2021 10:19:45</LetzteAenderung>
+  </Betriebsstellenfahrweg>
+  <Betriebsstellenfahrweg>
+    <Name>ZDW_rg.Gls3.ZDS_rg</Name>
+    <Anfang Typ="Betriebsstellengrenze" ID="103">1987-2</Anfang>
+    <Ende Typ="Gleisende" ID="144">E</Ende>
+    <Reisezughalt Typ="HalteplatzRzRechtsS" ID="120">Bstg2-K4</Reisezughalt>
+    <Attribute>
+      <DurchfahrtOhneHaltMoeglich/>
+      <Elektrifiziert/>
+    </Attribute>
+    <Verlauf>
+      <Abzweig/>
+      <Abzweig/>
+      <Abzweig/>
+      <Abzweig/>
+      <Abzweig/>
+      <Abzweig/>
+      <Abzweig/>
+      <Abzweig/>
+    </Verlauf>
+    <Prioritaeten>
+      <Prioritaet Typ="FRz">50</Prioritaet>
+      <Prioritaet Typ="NRz">50</Prioritaet>
+      <Prioritaet Typ="Rz">50</Prioritaet>
+      <Prioritaet Typ="FGz">50</Prioritaet>
+      <Prioritaet Typ="NGz">50</Prioritaet>
+      <Prioritaet Typ="Gz">50</Prioritaet>
+      <Prioritaet Typ="S">50</Prioritaet>
+      <Prioritaet Typ="Lz">50</Prioritaet>
+      <Prioritaet Typ="GzG">50</Prioritaet>
+    </Prioritaeten>
+    <LetzteAenderung>15.07.2021 10:17:13</LetzteAenderung>
+  </Betriebsstellenfahrweg>
+</Betriebsstellenfahrwege>

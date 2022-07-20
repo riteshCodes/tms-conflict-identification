@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<occupancy_times>
+  <link>
+    <block id="424-423">
+      <belegungszeit>0.7334</belegungszeit>
+      <vorbelegungszeit>0.35</vorbelegungszeit>
+      <driving_time>0.1217</driving_time>
+      <nachbelegungszeit>0.2617</nachbelegungszeit>
+      <block_info>
+        <vorsignal_id>None</vorsignal_id>
+        <vorsignal_pos>None</vorsignal_pos>
+        <start_hauptsignal_id>424</start_hauptsignal_id>
+        <start_hauptsignal_pos>28.18</start_hauptsignal_pos>
+        <fahrstrassenabschnitt>
+          <start_abschnitt_id>424</start_abschnitt_id>
+          <start_abschnitt_pos>28.18</start_abschnitt_pos>
+          <end_abschnitt_id>423</end_abschnitt_id>
+          <end_abschnitt_pos>28.137</end_abschnitt_pos>
+        </fahrstrassenabschnitt>
+        <end_hauptsignal_id>423</end_hauptsignal_id>
+        <end_hauptsignal_pos>28.137</end_hauptsignal_pos>
+        <zugschlussstelle_id>None</zugschlussstelle_id>
+        <zugschlussstelle_pos>None</zugschlussstelle_pos>
+        <zugschlussstelle_aufloesezeit>None</zugschlussstelle_aufloesezeit>
+        <distance_a>0</distance_a>
+        <distance_b>0.04299999999999926</distance_b>
+        <distance_d>0</distance_d>
+      </block_info>
+    </block>
+    <block id="423-423">
+      <belegungszeit>0.7117</belegungszeit>
+      <vorbelegungszeit>0.35</vorbelegungszeit>
+      <driving_time>0.0</driving_time>
+      <nachbelegungszeit>0.3617</nachbelegungszeit>
+      <block_info>
+        <vorsignal_id>None</vorsignal_id>
+        <vorsignal_pos>None</vorsignal_pos>
+        <start_hauptsignal_id>423</start_hauptsignal_id>
+        <start_hauptsignal_pos>28.137</start_hauptsignal_pos>
+        <fahrstrassenabschnitt>
+          <start_abschnitt_id>423</start_abschnitt_id>
+          <start_abschnitt_pos>28.137</start_abschnitt_pos>
+          <end_abschnitt_id>423</end_abschnitt_id>
+          <end_abschnitt_pos>28.137</end_abschnitt_pos>
+        </fahrstrassenabschnitt>
+        <end_hauptsignal_id>423</end_hauptsignal_id>
+        <end_hauptsignal_pos>28.137</end_hauptsignal_pos>
+        <zugschlussstelle_id>None</zugschlussstelle_id>
+        <zugschlussstelle_pos>None</zugschlussstelle_pos>
+        <zugschlussstelle_aufloesezeit>None</zugschlussstelle_aufloesezeit>
+        <distance_a>0</distance_a>
+        <distance_b>-0.0</distance_b>
+        <distance_d>0</distance_d>
+      </block_info>
+    </block>
+  </link>
+</occupancy_times>

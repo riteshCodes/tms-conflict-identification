@@ -1,0 +1,219 @@
+<?xml version="1.0" ?>
+<Verlauf>
+  <Knoten>
+    <Gleisende>
+      <ID>198</ID>
+      <ExterneID>895341633</ExterneID>
+      <Kilometrierung>26,418</Kilometrierung>
+      <LetzteAenderung>25.06.2021 15:20:35</LetzteAenderung>
+      <Name>A</Name>
+      <Bildkoordinaten>
+        <X>-85,8368</X>
+        <Y>16,0</Y>
+      </Bildkoordinaten>
+    </Gleisende>
+    <VorsignalS>
+      <ID>199</ID>
+      <ExterneID>895347233</ExterneID>
+      <Kilometrierung>26,419</Kilometrierung>
+      <LetzteAenderung>08.03.2021 15:56:42</LetzteAenderung>
+      <Name>12-Va</Name>
+      <Signalart Typ="FAHRWEGPUNKT-ART" Kategorie="SIG" Schluessel="VE">Vorsignal zum Einfahrsignal</Signalart>
+      <FstrBildezeit Einheit="s">9</FstrBildezeit>
+    </VorsignalS>
+    <VorsignalF>
+      <ID>200</ID>
+      <ExterneID>895347133</ExterneID>
+      <Kilometrierung>26,736</Kilometrierung>
+      <LetzteAenderung>08.03.2021 15:56:42</LetzteAenderung>
+      <Name>15-Vcc</Name>
+      <Signalart Typ="FAHRWEGPUNKT-ART" Kategorie="SIG" Schluessel="VE">Vorsignal zum Einfahrsignal</Signalart>
+      <FstrBildezeit Einheit="s">9</FstrBildezeit>
+    </VorsignalF>
+    <FstrZugschlussstelleS>
+      <ID>201</ID>
+      <ExterneID>895352133</ExterneID>
+      <Kilometrierung>27,324</Kilometrierung>
+      <LetzteAenderung>08.03.2021 16:23:22</LetzteAenderung>
+      <FstrAufloesezeit Einheit="s">3</FstrAufloesezeit>
+    </FstrZugschlussstelleS>
+    <HauptsignalS>
+      <ID>202</ID>
+      <ExterneID>895347633</ExterneID>
+      <Kilometrierung>27,414</Kilometrierung>
+      <LetzteAenderung>08.03.2021 15:56:42</LetzteAenderung>
+      <Name>12-A</Name>
+      <Signalart Typ="FAHRWEGPUNKT-ART" Kategorie="SIG" Schluessel="ESIG">Standort Einfahrsignal</Signalart>
+      <DwegAufloesezeit Einheit="s">3</DwegAufloesezeit>
+      <AnzahlVSigBisRelevant>1</AnzahlVSigBisRelevant>
+    </HauptsignalS>
+    <FstrZugschlussstelleS>
+      <ID>203</ID>
+      <ExterneID>895352333</ExterneID>
+      <Kilometrierung>27,414</Kilometrierung>
+      <LetzteAenderung>08.03.2021 16:23:22</LetzteAenderung>
+      <FstrAufloesezeit Einheit="s">3</FstrAufloesezeit>
+    </FstrZugschlussstelleS>
+    <FstrZugschlussstelleS>
+      <ID>204</ID>
+      <ExterneID>895351933</ExterneID>
+      <Kilometrierung>27,504</Kilometrierung>
+      <LetzteAenderung>08.03.2021 16:23:22</LetzteAenderung>
+      <FstrAufloesezeit Einheit="s">3</FstrAufloesezeit>
+    </FstrZugschlussstelleS>
+    <GeschwZulaessigF>
+      <ID>205</ID>
+      <ExterneID>895393833</ExterneID>
+      <Kilometrierung>27,568</Kilometrierung>
+      <LetzteAenderung>15.07.2021 14:42:25</LetzteAenderung>
+      <Geschw Einheit="km/h">160</Geschw>
+      <Wirkungsort>Hier</Wirkungsort>
+      <Zugbeeinflussung>Alle</Zugbeeinflussung>
+    </GeschwZulaessigF>
+    <KreuzungsweicheEndeRechts>
+      <ID>206</ID>
+      <ExterneID>895370033</ExterneID>
+      <Kilometrierung>27,568</Kilometrierung>
+      <LetzteAenderung>25.06.2021 12:49:29</LetzteAenderung>
+      <NachbarGeradeaus Typ="KreuzungsweicheAnfangRechts" ID="207">12-W2-3</NachbarGeradeaus>
+      <HauptknotenAnfang Typ="KreuzungsweicheAnfangLinks" ID="208">12-W2-3</HauptknotenAnfang>
+      <HauptknotenEnde Typ="KreuzungsweicheEndeLinks" ID="209">12-W2-3</HauptknotenEnde>
+    </KreuzungsweicheEndeRechts>
+    <KreuzungsweicheAnfangRechts>
+      <ID>207</ID>
+      <ExterneID>895371033</ExterneID>
+      <Kilometrierung>27,568</Kilometrierung>
+      <LetzteAenderung>25.06.2021 12:49:29</LetzteAenderung>
+      <NachbarGeradeaus Typ="KreuzungsweicheEndeRechts" ID="206">12-W2-3</NachbarGeradeaus>
+      <HauptknotenAnfang Typ="KreuzungsweicheAnfangLinks" ID="208">12-W2-3</HauptknotenAnfang>
+      <HauptknotenEnde Typ="KreuzungsweicheEndeLinks" ID="209">12-W2-3</HauptknotenEnde>
+    </KreuzungsweicheAnfangRechts>
+    <FstrZugschlussstelleS>
+      <ID>400</ID>
+      <ExterneID>895352733</ExterneID>
+      <Kilometrierung>27,727</Kilometrierung>
+      <LetzteAenderung>25.06.2021 12:49:29</LetzteAenderung>
+      <FstrAufloesezeit Einheit="s">3</FstrAufloesezeit>
+    </FstrZugschlussstelleS>
+    <Weichenstamm>
+      <ID>333</ID>
+      <ExterneID>895362833</ExterneID>
+      <Kilometrierung>27,873</Kilometrierung>
+      <LetzteAenderung>25.06.2021 12:49:29</LetzteAenderung>
+      <Partner Typ="Weichenanfang" ID="332">12-W8</Partner>
+    </Weichenstamm>
+    <Weichenanfang>
+      <ID>332</ID>
+      <ExterneID>895362233</ExterneID>
+      <Kilometrierung>27,873</Kilometrierung>
+      <LetzteAenderung>25.06.2021 15:20:35</LetzteAenderung>
+      <Name>12-W8</Name>
+      <Stamm Typ="Weichenstamm" ID="333">12-W8</Stamm>
+      <Abzweig Typ="WeichenabzweigRechts" ID="334">12-W8</Abzweig>
+      <Bildkoordinaten>
+        <X>-74,2898</X>
+        <Y>16,0</Y>
+      </Bildkoordinaten>
+    </Weichenanfang>
+    <SchutzsignalF>
+      <ID>335</ID>
+      <ExterneID>895348733</ExterneID>
+      <Kilometrierung>27,873</Kilometrierung>
+      <LetzteAenderung>25.06.2021 10:35:18</LetzteAenderung>
+      <Name>12-Zp2</Name>
+      <DwegAufloesezeit Einheit="s">3</DwegAufloesezeit>
+      <AnzahlVSigBisRelevant>1</AnzahlVSigBisRelevant>
+    </SchutzsignalF>
+    <FstrZugschlussstelleS>
+      <ID>336</ID>
+      <ExterneID>895352633</ExterneID>
+      <Kilometrierung>27,874</Kilometrierung>
+      <LetzteAenderung>25.06.2021 10:35:18</LetzteAenderung>
+      <FstrAufloesezeit Einheit="s">3</FstrAufloesezeit>
+    </FstrZugschlussstelleS>
+    <Neigung>
+      <ID>337</ID>
+      <ExterneID>895383333</ExterneID>
+      <Kilometrierung>28,000</Kilometrierung>
+      <LetzteAenderung>15.07.2021 12:22:52</LetzteAenderung>
+      <Fallend>-12,0</Fallend>
+      <Steigend>0,0</Steigend>
+    </Neigung>
+    <Weichenanfang>
+      <ID>183</ID>
+      <ExterneID>895349733</ExterneID>
+      <Kilometrierung>28,028</Kilometrierung>
+      <LetzteAenderung>25.06.2021 15:20:35</LetzteAenderung>
+      <Name>12-W24</Name>
+      <Stamm Typ="Weichenstamm" ID="182">12-W24</Stamm>
+      <Abzweig Typ="WeichenabzweigRechts" ID="258">12-W24</Abzweig>
+      <Bildkoordinaten>
+        <X>-67,3616</X>
+        <Y>16,0</Y>
+      </Bildkoordinaten>
+    </Weichenanfang>
+    <Weichenstamm>
+      <ID>182</ID>
+      <ExterneID>895348933</ExterneID>
+      <Kilometrierung>28,028</Kilometrierung>
+      <LetzteAenderung>08.03.2021 16:07:22</LetzteAenderung>
+      <Partner Typ="Weichenanfang" ID="183">12-W24</Partner>
+    </Weichenstamm>
+    <SignalZugschlussstelleS>
+      <ID>184</ID>
+      <ExterneID>895354733</ExterneID>
+      <Kilometrierung>28,028</Kilometrierung>
+      <LetzteAenderung>08.03.2021 16:39:45</LetzteAenderung>
+      <FstrAufloesezeit Einheit="s">3</FstrAufloesezeit>
+    </SignalZugschlussstelleS>
+    <GeschwZulaessigS>
+      <ID>185</ID>
+      <ExterneID>895393133</ExterneID>
+      <Kilometrierung>28,028</Kilometrierung>
+      <LetzteAenderung>15.07.2021 14:42:25</LetzteAenderung>
+      <Geschw Einheit="km/h">160</Geschw>
+      <Wirkungsort>Hier</Wirkungsort>
+      <Zugbeeinflussung>Alle</Zugbeeinflussung>
+    </GeschwZulaessigS>
+    <FstrZugschlussstelleS>
+      <ID>186</ID>
+      <ExterneID>895353033</ExterneID>
+      <Kilometrierung>28,140</Kilometrierung>
+      <LetzteAenderung>08.03.2021 16:26:02</LetzteAenderung>
+      <FstrAufloesezeit Einheit="s">3</FstrAufloesezeit>
+    </FstrZugschlussstelleS>
+    <HauptsignalF>
+      <ID>187</ID>
+      <ExterneID>895349433</ExterneID>
+      <Kilometrierung>28,140</Kilometrierung>
+      <LetzteAenderung>08.03.2021 16:07:22</LetzteAenderung>
+      <Name>12-P2</Name>
+      <Signalart Typ="FAHRWEGPUNKT-ART" Kategorie="SIG" Schluessel="ASIG">Standort Ausfahrsignal</Signalart>
+      <DwegAufloesezeit Einheit="s">3</DwegAufloesezeit>
+      <AnzahlVSigBisRelevant>1</AnzahlVSigBisRelevant>
+    </HauptsignalF>
+    <FstrZugschlussstelleS>
+      <ID>188</ID>
+      <ExterneID>895353133</ExterneID>
+      <Kilometrierung>28,230</Kilometrierung>
+      <LetzteAenderung>08.03.2021 16:27:27</LetzteAenderung>
+      <FstrAufloesezeit Einheit="s">3</FstrAufloesezeit>
+    </FstrZugschlussstelleS>
+    <HalteplatzRzRechtsF>
+      <ID>189</ID>
+      <ExterneID>895355133</ExterneID>
+      <Kilometrierung>28,230</Kilometrierung>
+      <LetzteAenderung>08.03.2021 16:48:03</LetzteAenderung>
+      <Name>Bst2K2f</Name>
+      <Laenge Einheit="m">600</Laenge>
+    </HalteplatzRzRechtsF>
+    <HalteplatzRzLinksS>
+      <ID>190</ID>
+      <ExterneID>895355333</ExterneID>
+      <Kilometrierung>28,725</Kilometrierung>
+      <LetzteAenderung>08.03.2021 16:48:03</LetzteAenderung>
+      <Name>Bst2K2s</Name>
+      <Laenge Einheit="m">600</Laenge>
+    </HalteplatzRzLinksS>
+  </Knoten>
+</Verlauf>
